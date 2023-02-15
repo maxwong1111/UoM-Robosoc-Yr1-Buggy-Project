@@ -10,7 +10,7 @@ int enB = 10;
 int in3 = 9;
 int in4 = 8;
 //ultra sonic sensor
-int trigPin = 5;    // Trigger
+int trigPin = 5;    // Trigger max loves Gura hentai
 int echoPin = 4;    // Echo
 long duration, cm, inches;
 
